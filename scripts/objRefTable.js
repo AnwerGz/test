@@ -10,7 +10,7 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.Browser,
 		C3.Plugins.Mouse,
 		C3.Plugins.System.Cnds.IsGroupActive,
-		C3.Plugins.Mouse.Cnds.OnClick,
+		C3.Plugins.Touch.Cnds.OnTapGesture,
 		C3.Behaviors.Platform.Acts.SetVectorY,
 		C3.Plugins.Sprite.Cnds.CompareX,
 		C3.Plugins.Sprite.Acts.Destroy,
